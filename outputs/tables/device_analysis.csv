@@ -1,0 +1,4 @@
+Device,Sessions,Users,Page_Views,Average_Duration,Bounce_Rate,Conversions,Revenue,Pages_per_Session,Conversion_Rate
+Desktop,2392,1744,8985,225.3,31.65,216,23795.63,3.76,9.03
+Mobile,3132,2119,7389,124.93,45.4,126,14686.81,2.36,4.02
+Tablet,476,439,1224,141.46,37.39,24,3647.34,2.57,5.04
