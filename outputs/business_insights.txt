@@ -1,0 +1,8 @@
+1. Highest traffic source: Google (1920 sessions)
+2. Highest conversion-rate source: Email (9.27%)
+3. Highest traffic device: Mobile (3132 sessions)
+4. Most pages per session: Desktop (3.76)
+5. Peak traffic hour: 19:00 (496 sessions)
+6. Highest conversion-rate hour: 14:00 (8.41%)
+7. Highest traffic day: 2026-03-26 (87 sessions)
+Note: correlation shows association and does not prove causation.
